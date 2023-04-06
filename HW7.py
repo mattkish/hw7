@@ -1,8 +1,8 @@
 
-# Your name:
-# Your student id:
-# Your email:
-# List who you have worked with on this project:
+# Your name: Matt Kish 
+# Your student id: 3767 0460
+# Your email: mattkish@umich.edu
+# List who you have worked with on this project: Andrei Mircea, David Diokno, Chris Lin
 
 import unittest
 import sqlite3
